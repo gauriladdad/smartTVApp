@@ -25,6 +25,7 @@ This application works well on samsung smart TV.
 1. from command line run - haxe build.hxml
 2. then run - package.bat. This will generate the player.zip from bin folder. Make sure your build is succesful in step 1.
 3. Where package is loaded, alongside copy the file - www/widgetlist.xml
+
 ⋅⋅1. DO NOT change widgestlist file name
 ⋅⋅2. Do not forget to update <download> tag inside the file and replace IP with your machine's IP.
 4. Start a server (I have used MAMP for testing) and point it to where player.zip is located. 
@@ -36,7 +37,7 @@ You application should now load on TV and its ready to play.
 
 Start weinre server with command
 
-weinre --boundHost <YOUR_MACHINE_IP> --httpPort 8080 --deathTimeout=90 --verbose --readTimeout=0 
+weinre --boundHost YOUR_MACHINE_IP --httpPort 8080 --deathTimeout=90 --verbose --readTimeout=0 
 
 To view the logs: http://YOUR_MACHINE_IP:8080/client/
 
