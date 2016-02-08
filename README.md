@@ -10,12 +10,11 @@ The items can be selected from remote with up/down/left/right keys.
 
 ### Tools used
 
-Haxe for JS
-
-1. Sublime editor
-2. SourceTree
-3. Weinre (for remote debugging of the app)
-4. Batch script 
+1. Haxe for JS
+2. Sublime editor
+3. SourceTree
+4. Weinre (for remote debugging of the app)
+5. Batch script 
 
 ### Device Support
 
