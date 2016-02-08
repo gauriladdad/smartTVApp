@@ -1,4 +1,4 @@
-# smartTVApp
+# Samsung smart tv application
 This application explores how to play/pause videos on samsung smart TV. Upon running
 
 1. It fetches a list of video links over HTTP and displays it inside a scrollable container. 
@@ -8,7 +8,7 @@ The items can be selected from remote with up/down/left/right keys.
 
 3. It also captures some parameters for video like bit rate, video resolution, time progress etc.
 
-### Tools used
+### Tools used :
 
 1. Haxe for JS
 2. Sublime editor
@@ -16,7 +16,7 @@ The items can be selected from remote with up/down/left/right keys.
 4. Weinre (for remote debugging of the app)
 5. Batch script 
 
-### Device Support
+### Device Support :
 
 This application works well on samsung smart TV.
 
@@ -32,7 +32,7 @@ This application works well on samsung smart TV.
 
 You application should now load on TV and its ready to play.
 
-### Debug the application using weinre - 
+### Debug the application using weinre :
 
 Start weinre server with command
 
