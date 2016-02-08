@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<ThumbIcon>icon/106.png</ThumbIcon>
+	<BigThumbIcon>icon/115.png</BigThumbIcon>
+	<ListIcon>icon/86.png</ListIcon>
+	<BigListIcon>icon/95.png</BigListIcon>
+	<category>none</category>
+	<type>user</type>
+	<cpname>Massive Interactive</cpname>
+	<cplogo></cplogo>
+	<cpauthjs></cpauthjs>
+	<ver>0.0.0.0</ver>
+	<mgver></mgver>
+	<fullwidget>y</fullwidget>
+	<srcctl>y</srcctl>
+	<ticker>n</ticker>
+	<childlock>n</childlock>
+	<audiomute>n</audiomute>
+	<videomute>n</videomute>
+	<dcont>y</dcont>
+	<widgetname>Dash Player</widgetname>
+	<description>Dash Player</description>
+	<width>1920</width>
+	<height>1080</height>
+	<author>
+		<name>Default Organization</name>
+		<email></email>
+		<link></link>
+		<organization>Default Organization</organization>
+	</author>
+</widget>

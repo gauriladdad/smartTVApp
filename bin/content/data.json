@@ -1,0 +1,35 @@
+{
+    "items": 
+	[
+        { "url" : "http://pax.t-online.de/dash/media/bbb/BBB_Main_10s-HEVC-4K.mpd","name" : "DT pax BBB_10s UHD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/bbb/BBB_Main_10s-HEVC-HD.mpd","name" : "DT pax BBB_10s HD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/bbb/BBB_Main_10s-HEVC-SD.mpd","name" : "DT pax BBB_10s SD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/bbb/BBB_Main_6s-HEVC-4K.mpd","name" : "DT pax BBB_6s UHD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/bbb/BBB_Main_4s-HEVC-4K.mpd","name" : "DT pax BBB_4s UHD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/bbb/BBB_Main_2s-HEVC-4K.mpd","name" : "DT pax BBB_2s UHD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/bbb/BBB_Main_2s-HEVC-HD.mpd","name" : "DT pax BBB_2s HD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/bbb/BBB_Main_2s-HEVC-SD.mpd","name" : "DT pax BBB_2s SD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/GOLDENFILES_H264_DASH_HD/OTT_GOLDENFILES_HD.mpd","name" : "DT pax.t-online.de OTT_GOLDENFILES_HD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/GOLDENFILES_H264_DASH_SD/OTT_GOLDENFILES_SD.mpd","name" : "DT pax.t-online.de OTT_GOLDENFILES_SD", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/GOLDENFILES_H264_DASH_SD_stereo-only/OTT_GOLDENFILES_SD.mpd","name" : "DT pax.t-online.de OTT_GOLDENFILES_SD_stereo-only", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/media/elephants_dream_480p_heaac5_1/elephants_dream_480p_heaac5_1.mpd","name" : "DT pax.t-online.de elephants_dream_480p_heaac5_1", "browsers": "cdsbi" },
+        { "url" : "http://pax.t-online.de/dash/A-Team-DerFilm-Deutsch.mpd","name" : "DT pax.t-online.de A-Team-DerFilm-Deutsch.mpd", "browsers": "cdsbi" },
+        { "url" : "http://i1smstr.dmm.t-online.de/smooth/dash_test/A-Team-DerFilm-Deutsch.mpd","name" : "DT i1smstr.dmm.t-online.de A-Team-DerFilm-Deutsch.mpd", "browsers": "cdsbi" },
+        { "url" : "http://i1smstr.dmm.t-online.de/smooth/dash_test/elephants_dream_480p_heaac5_1.mpd","name" : "DT i1smstr.dmm.t-online.de elephants_dream_480p_heaac5_1.mpd", "browsers": "cdsbi" },
+        { "url" : "http://svc21-atu1.main.icdn.t-online.de/smooth/dash_test/A-Team-DerFilm-Deutsch.mpd","name" : "DT icdn A-Team-DerFilm-Deutsch.mpd", "browsers": "cdsbi" },
+        { "url" : "http://svc21-atu1.main.icdn.t-online.de/smooth/dash_test/elephants_dream_480p_heaac5_1.mpd","name" : "DT icdn elephants_dream_480p_heaac5_1.mpd", "browsers": "cdsbi" },
+        { "url" : "http://80.146.205.187/smooth/dash_test/A-Team-DerFilm-Deutsch.mpd","name" : "mv-v  A-Team-DerFilm-Deutsch.mpd", "browsers": "cdsbi" },
+        { "url" : "http://80.146.205.187/smooth/dash_test/elephants_dream_480p_heaac5_1.mpd","name" : "mh-v elephants_dream_480p_heaac5_1.mpd", "browsers": "cdsbi" }
+	],
+  
+  "comment" : 
+	[
+	    { "url" : "http://dtag.massiveinteractive.com/samsung/simple/test.mp4","name" : "MP4 sample 1", "browsers": "cdsbi" },
+        { "url" : "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-88.mp4","name" : "mp4 sample 2", "browsers": "cdsbi" },
+        { "url" : "http://80.146.205.187/smooth/dash_test/elephants_dream_480p_heaac5_1.mpd","name" : "mh-v elephants_dream_480p_heaac5_1.mpd", "browsers": "cdsbi" },
+		{ "url" : "http://www.libde265.org/hevc-bitstreams/bbb-1920x1080-cfg02.mkv","name" : "sample h265 file", "browsers": "cdsbi" },
+		{ "url" : "http://mss-vp1.9c9media.com/test/HEVC/TTO_Ep101_MASTER_Stereo_UHD.mpd", "name" : "Encoded and packaged with Elemental Server"},
+		{ "url" : "http://deltadev.9c9media.com/out/i/26.mpd", "name" : "Encoded with Elemental server and packaged with Elemental Delta"},
+		{ "url" : "http://deltadev.9c9media.com/out/i/35.mpd", "name" : "Encoded with Cisco AnyRes and packaged with Elemental Delta"}
+	]
+}

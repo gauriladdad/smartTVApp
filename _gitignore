@@ -1,0 +1,6 @@
+*.hxproj
+bin/app.js
+bin/app.js.map
+*.bat
+*.zip
+www/widgetlist.xml

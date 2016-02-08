@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>Samsung-4k-player</title>
+	
+	<link rel="stylesheet" href="css/styles.css" />
+	
+	<!-- Common App API -->
+	<script type="text/javascript" src="$MANAGER_WIDGET/Common/API/Widget.js"></script>
+	<script type="text/javascript" src="$MANAGER_WIDGET/Common/API/TVKeyValue.js"></script>
+	<!-- Weinre debugging -->
+	<script type='text/javascript' src='http://192.168.199.130:8080/target/target-script-min.js'></script>
+	<!--Application code -->
+	<script type="text/javascript" src="app.js"></script>
+</head>
+<body>
+	<!-- native player -->
+	<object id="pluginPlayer" border="0" classid="clsid:SAMSUNG-INFOLINK-PLAYER"
+		style="position:absolute;left:0px;top:0px;width:1280px;height:720px"></object>
+	<object id="pluginTVMW" border="0" classid="clsid:SAMSUNG-INFOLINK-TVMW" 
+		style="opacity:0;width:0px;height:0px;"></object>
+	<object id="externalPlugin" border="0" classid="clsid:SAMSUNG-INFOLINK-EXTERNALWIDGETINTERFACE"
+		style="opacity:0;width:0px;height:0px;"></object>
+	
+</body>
+</html>
